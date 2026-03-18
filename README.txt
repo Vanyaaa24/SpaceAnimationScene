@@ -1,7 +1,3 @@
-README - CSC A1 Space Scene
-===========================
-Student: Vanya Singla
-Course:  V01047173
 
 ==============================================
 IMPLEMENTED ELEMENTS
